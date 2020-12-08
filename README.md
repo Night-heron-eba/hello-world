@@ -1,4 +1,7 @@
 # hello-world
 Just a repository
 
-Hello! I am a cute night heron living near a river in Shanghai, my name is Eba!
+Hello!
+I am a uncute night heron named Eba.
+
+I live by a river where lives a human in Shanghai.
