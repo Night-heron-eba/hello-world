@@ -1,7 +1,1 @@
-# hello-world
-Just a repository
-
-Hello!
-I am a uncute night heron named Eba.
-
-I live by a river where lives a human in Shanghai.
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Night-heron-eba)](https://github.com/anuraghazra/github-readme-stats)
